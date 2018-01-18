@@ -7,4 +7,4 @@ def leap(year):
     else: return "no"
 
 
-print(leap(int(input("Enter three number:"))))
+print(leap(int(input("Enter year:"))))
