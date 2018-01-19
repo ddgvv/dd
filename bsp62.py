@@ -1,4 +1,3 @@
-#62th problem
-b=list(input("Enter String binary"))
-if len(b)==(len(b.count('0'))+len(b.count('0'))):print("yes")
+bb=list(input("Enter String binary"))
+if len(bb)==(bb.count('0')+bb.count('1')):print("yes")
 else:print("no")
