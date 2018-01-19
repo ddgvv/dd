@@ -1,3 +1,3 @@
-#61th problem
-s,n=input("Enter value String & value").split(' ')
-print(s[:int(n)])
+s1,n1=input("Enter value String & value").split(' ')
+print(s1[:int(n1)])
+
