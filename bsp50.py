@@ -1,0 +1,10 @@
+#50th problem
+def isPowerOfTwo(n):
+    if (n == 0):return False
+    while (n != 1):
+        if (n % 2 != 0):return False
+        n = n // 2
+    return True
+n=int(input("Enter Value"))
+if(isPowerOfTwo(n)):print('yes')
+else:print('no')
