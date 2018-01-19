@@ -1,9 +1,8 @@
-#67th problem
 import math
-n=int(input("Enter Value"))
-if n<10: print("10")
+n2=int(input("Enter Value"))
+if n2<10: print("10")
 else:
-    l=len(str(n))
-    n+=5
-    n=n/(10**(l-1))
-    print(math.floor(n)*(10**(l-1)))
+    l2=len(str(n2))
+    n2+=5
+    n2=n2/(10**(l2-1))
+    print(math.floor(n2)*(10**(l2-1)))
