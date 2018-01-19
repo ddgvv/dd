@@ -1,2 +1,1 @@
-#63th problem
-print(len(input("Enter String ")).split(' ')))
+print(len(list(input("Enter String ").split(' '))))
