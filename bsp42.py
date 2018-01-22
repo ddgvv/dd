@@ -1,2 +1,2 @@
-#42 problem
-print(max(input("Enter String").split(' ')))
+x=input("Enter String").split(' ')
+print(max(x))
