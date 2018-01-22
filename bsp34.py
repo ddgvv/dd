@@ -1,2 +1,2 @@
-#34th problem
-print(len(input("Enter Paragraph").split('.')))
+x=input("Enter Paragraph").split('.')
+print(len(x))
