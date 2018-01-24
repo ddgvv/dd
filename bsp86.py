@@ -1,4 +1,4 @@
-#86th prb
-l=list(input())
-if len(l)==len(set(l)):print("yes")
+#86th problem
+sring=list(input())
+if len(string)==len(set(string)):print("yes")
 else:print("no")
