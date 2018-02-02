@@ -6,7 +6,6 @@ for i in range(len(words )):
         words[i]=words[i].lower()
 print(words)
 
-#28 problem
-words=input()
-print(words.replace(" ",""))
+
+
 
