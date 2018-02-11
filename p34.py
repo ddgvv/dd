@@ -1,2 +1,3 @@
-st=input()
-print("".join (st[i] for i in range(0,len(st),3)))
+s=input()
+for i in range(0,len(s),3):
+    print(s[i])
