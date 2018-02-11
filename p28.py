@@ -1,2 +1,3 @@
 words=input()
-print(words.replace(" ",""))
+words=words.replace(" ","")
+print(words)
