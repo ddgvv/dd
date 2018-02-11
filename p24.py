@@ -1,2 +1,5 @@
-if input("Enter the string").isdigit():print("yes")
-else:print("no")
+str=input("string")
+if str.isdigit():
+    print("yes")
+else:
+    print("no")
