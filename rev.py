@@ -1,3 +1,2 @@
-in=input()
-r=in
-print(reversed(r))
+x=input()
+print(x[::-1])
