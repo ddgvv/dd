@@ -1,4 +1,4 @@
-n=int(input("Enter number:"))
+n=int(input())
 while n>0:
     print("Hello")
     n-=1
