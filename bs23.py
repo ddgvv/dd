@@ -5,4 +5,4 @@ def prime(num):
             if (num % i) == 0:return "no"
             else: return "yes"
     else:return "no"
-print(prime(int(input("Enter the Number"))))
+print(prime(int(input())))
