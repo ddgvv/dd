@@ -1,4 +1,4 @@
-n,k=input("Enter n and k").split(' ')
+n,k=input().split(' ')
 n,k=int(n),int(k)
-a=list(map(int,input("Enter values").split(' ')))
+a=list(map(int,input().split(' ')))
 print(sum(a[:k]))
