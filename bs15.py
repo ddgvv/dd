@@ -1,1 +1,1 @@
-print(max(list(map(int,input("Enter three number:").split(' ')))))
+print(max(list(map(int,input().split(' ')))))
