@@ -1,1 +1,1 @@
-print(len(input("Enter the integer")))
+print(len(input()))
