@@ -1,6 +1,5 @@
-
-l=input()
-K=int(input())
+l,k=input().split(' ')
+K=int(k)
 l=sorted(l)
 l="".join(str(x) for x in l)
 print(l[:len(l)-K])
