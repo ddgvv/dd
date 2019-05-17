@@ -1,1 +1,3 @@
-print(max(list(map(int,input().split(' ')))))
+l=list(map(int,input().split(' ')))
+m=max(l)
+print(m)
