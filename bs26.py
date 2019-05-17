@@ -8,4 +8,4 @@ for num in range(a+1,b):
                break
        else:
            l.append(num)
-print(" ".join(str(x) for x in l))
+print(" ".join(str(xz) for xz in l))
