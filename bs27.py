@@ -1,4 +1,4 @@
-v=input("enter value")
+v=input()
 sum=0
 
 for i in range(len(v)):
