@@ -1,3 +1,4 @@
 x=input()
-l=len(x)
+k=len(x)
+l=k
 print(l)
